@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main(){
-    std::cout << "Я теперь первокусник ДВФУ";
-    return 1;
+    
+    std::cout << "ИМКТ Сила";
+    return 52;
 }
