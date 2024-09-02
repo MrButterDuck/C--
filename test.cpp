@@ -2,5 +2,5 @@
 
 int main(){
     std::cout << "Я теперь первокусник ДВФУ";
-    return 0;
+    return 1;
 }
